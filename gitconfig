@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = j.augustwanger@gmail.com
+	name = AugustWanger
